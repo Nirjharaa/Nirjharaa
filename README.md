@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirjharaa Patel</h1>
-<!-- <h3 align="center">A Passionate Full Stack Developer | Aspiring DevOps Engineer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirjharaa&label=Profile%20views&color=0e75b6&style=flat" alt="nirjharaa" /> </p>
 
@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a MLOps Project**
 
 - 🌱 I’m currently learning **Devops**
 
-- 📫 How to reach me **nirjharaapatel@gmail.com**
+- 📫 How to reach me **nirjharaa1823@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirjharaa&show_icons=true&locale=en" alt="nirjharaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirjharaa&" alt="nirjharaa" /></p>
- -->
+ 
